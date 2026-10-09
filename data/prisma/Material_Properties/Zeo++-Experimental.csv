@@ -1,0 +1,4 @@
+MOF,Molecule,Pellet Density [g/cm3],Macroporosity [-],Density [g/cm^3],POAVF [-],Cp [J/g.K],Binder [-]
+CALF20_exp_powder,CO2,nan,0.35,1.763,0.38,0.721066,0
+CuAlPyC_exp,CO2,nan,0.35,1.43211,0.33146,0.842261,0
+Zeolite_13X_exp_scaled,CO2,1.05,0.292,1.483,nan,0.88,0
