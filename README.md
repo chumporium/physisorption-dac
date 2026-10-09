@@ -2,7 +2,7 @@
 
 Model code, input data and results for the manuscript
 
-> E. Munandar, Nasruddin. Physisorption-based direct air capture: LNG cold, renewable cooling and adsorbent targets.
+> E. Munandar, Nasruddin, B.B. Saha. Physisorption-based direct air capture: LNG cold, renewable cooling and adsorbent targets.
 
 The model simulates an off-grid direct air capture (DAC) plant hour by hour and calculates the levelised cost of
 capture. The plant uses a physisorbent (zeolite 13X, a metal-organic framework of the PrISMa database or a model
