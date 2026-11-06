@@ -1,0 +1,4 @@
+MOF,Molecule,Uptake_sat [mol/kg],Henry [mol/kg/Pa],Heat_henry [kJ/mol],Uptake_des [mol/kg],Heat_des [kJ/mol],Uptake_CO2_bin [mol/kg],Uptake_CO2_ter [mol/kg],WRC [-]
+CALF20_exp_powder,H2O,10.5,0.000225167,-34.73290228,8,-35.39071,0.821720306,0.065740598,0.080003619
+CuAlPyC_exp,H2O,18.37,0.000505066,-38.51298573,15.95,-38.140441,0.368501356,0.195402619,0.530262959
+Zeolite_13X_exp_scaled,H2O,17.6,0.865502,-60.46064309,13.6,-59.78418,1.034079086,0.000290647,0.000281068
